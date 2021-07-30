@@ -4,7 +4,7 @@
 
 This is a part of my portfolio to show what I have been interested in learning many image analysis techniques provided by Deep Learning.
 
-<img src="images/illustration1.png?raw=true"/>
+<img src="images/emotional-analysis.png?raw=true"/>
 
 ### Installation
 
