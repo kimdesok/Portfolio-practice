@@ -6,10 +6,8 @@ This is a work related portfolio to show what I have done while learning many im
 
 <figure class="image">
   <img src="images/emotioin-analysis.png?raw=true"/>
-  <figcaption>{{ Emotion Analysis using one of OpenCV tools }}</figcaption>
+  <figcaption><center> Emotion Analysis using one of OpenCV tools</center> </figcaption>
 </figure>
-
-<img src="images/emotioin-analysis.png?raw=true"/>
 
 ### Installation
 
