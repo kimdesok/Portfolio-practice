@@ -2,9 +2,9 @@
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+This is a part of my portfolio to show what I have been interested in learning many image analysis techniques provided by Deep Learning.
 
-<img src="images/demo.gif?raw=true"/>
+<img src="images/illustration1.png?raw=true"/>
 
 ### Installation
 
