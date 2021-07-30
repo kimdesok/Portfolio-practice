@@ -4,9 +4,9 @@
 
 This is a work related portfolio to show what I have done while learning many image analysis techniques provided by Deep Learning.
 
-<figure class="image">
+<figure class="image"><center> 
   <img src="images/emotioin-analysis.png?raw=true"/>
-  <figcaption><center> Emotion Analysis using one of OpenCV tools</center> </figcaption>
+  <figcaption>Emotion Analysis using one of OpenCV tools</figcaption></center> 
 </figure>
 
 ### Installation
