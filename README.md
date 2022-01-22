@@ -1,8 +1,8 @@
-## Developer Portfolio Landing Page Template
+## Emotion analysis
 
 ### Introduction
 
-This is a work related portfolio to show what I have done while learning many image analysis techniques provided by Deep Learning.
+
 
 <figure class="image"><center> 
   <img src="images/emotioin-analysis.png?raw=true"/>
